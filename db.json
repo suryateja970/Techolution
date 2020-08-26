@@ -1,4 +1,5 @@
-[{
+{
+"data":[{
 		"name": "rajiv",
 		"marks": {
 			"Maths": 18,
@@ -26,3 +27,5 @@
 		"rollNumber": "KV2017-5A3"
 	}
 ]
+	
+}
